@@ -11,12 +11,6 @@ style="height: 300px;
 ]]></content>
   </entry>
   <entry>
-    <title>常用的网站</title>
-    <url>/2023/09/09/%E5%B8%B8%E7%94%A8%E7%9A%84%E7%BD%91%E7%AB%99/</url>
-    <content><![CDATA[<p><a href="https://pc.woozooo.com/">蓝奏云</a> <a href="https://shop.sanfen.co/#/login">三分机场</a> <a href="https://pc.qq.com/">腾讯软件管家</a> <a href="http://www.eathappy.top:5244/">alist</a></p>
-]]></content>
-  </entry>
-  <entry>
     <title>常用软件</title>
     <url>/2023/08/31/%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6/</url>
     <content><![CDATA[<table>
@@ -106,71 +100,10 @@ style="height: 300px;
 ]]></content>
   </entry>
   <entry>
-    <title>torino</title>
-    <url>/2023/11/22/%E5%9B%BE%E7%89%87/torino_pixiv%E6%94%B6%E9%9B%86/</url>
-    <content><![CDATA[<div class="gallery-group-main">
-<figure class="gallery-group">
-  <img class="gallery-group-img no-lightbox" src='https://p.sda1.dev/14/0be8c9dcb897de5fa034f24dcb83e2be/torino_配信前のシオンちゃん_94332920_p0_32229.jpg' alt="Group Image Gallery">
-  <figcaption>
-  <div class="gallery-group-name">torino</div>
-  <p>很不错的插画</p>
-  <a href='/Gallery/torino'></a>
-  </figcaption>
-  </figure>
-  
-</div>
+    <title>常用的网站</title>
+    <url>/2023/09/09/%E5%B8%B8%E7%94%A8%E7%9A%84%E7%BD%91%E7%AB%99/</url>
+    <content><![CDATA[<p><a href="https://pc.woozooo.com/">蓝奏云</a> <a href="https://shop.sanfen.co/#/login">三分机场</a> <a href="https://pc.qq.com/">腾讯软件管家</a> <a href="http://www.eathappy.top:5244/">alist</a></p>
 ]]></content>
-      <tags>
-        <tag>图片</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>安柏pixiv图片收集</title>
-    <url>/2023/11/22/%E5%9B%BE%E7%89%87/%E5%AE%89%E6%9F%8Fpixiv%E5%9B%BE%E7%89%87%E6%94%B6%E9%9B%86/</url>
-    <content><![CDATA[<div class="gallery-group-main">
-<figure class="gallery-group">
-  <img class="gallery-group-img no-lightbox" src='https://p.sda1.dev/14/4b9f361d0ce7ddedfd4656cbd342aaea/photo_2023-11-20_16-50-46.jpg' alt="Group Image Gallery">
-  <figcaption>
-  <div class="gallery-group-name">安柏</div>
-  <p>兔兔伯爵 出击!</p>
-  <a href='/Gallery/%E5%AE%89%E6%9F%8F'></a>
-  </figcaption>
-  </figure>
-  
-</div>
-]]></content>
-      <tags>
-        <tag>图片</tag>
-        <tag>pixiv</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>甘雨1000收藏系列</title>
-    <url>/2023/11/24/%E5%9B%BE%E7%89%87/%E7%94%98%E9%9B%A81000%E6%94%B6%E8%97%8F%E7%B3%BB%E5%88%97/</url>
-    <content><![CDATA[<div class="gallery-group-main">
-<figure class="gallery-group">
-  <img class="gallery-group-img no-lightbox" src='https://p.sda1.dev/14/478cc4239b0594e4ef2c97e7da5482f3/0002.jpg' alt="Group Image Gallery">
-  <figcaption>
-  <div class="gallery-group-name">甘雨</div>
-  <p>1000收藏系列1</p>
-  <a href='/Gallery/%E7%94%98%E9%9B%A81000%E6%94%B6%E8%97%8F%E7%B3%BB%E5%88%971'></a>
-  </figcaption>
-  </figure>
-  
-<figure class="gallery-group">
-  <img class="gallery-group-img no-lightbox" src='https://i.postimg.cc/dV2798Q4/0334.png' alt="Group Image Gallery">
-  <figcaption>
-  <div class="gallery-group-name">甘雨</div>
-  <p>1000收藏系列2</p>
-  <a href='/Gallery/%E7%94%98%E9%9B%A81000%E6%94%B6%E8%97%8F%E7%B3%BB%E5%88%972'></a>
-  </figcaption>
-  </figure>
-  
-</div>]]></content>
-      <tags>
-        <tag>甘雨</tag>
-        <tag>1000收藏</tag>
-      </tags>
   </entry>
   <entry>
     <title>day01-HTML基础</title>
@@ -1677,6 +1610,152 @@ style="height: 300px;
 ]]></content>
   </entry>
   <entry>
+    <title>移动Web第二天</title>
+    <url>/2023/11/14/01%E5%89%8D%E7%AB%AF/%E7%A7%BB%E5%8A%A8Web%E7%AC%AC%E4%BA%8C%E5%A4%A9/</url>
+    <content><![CDATA[<h1 id="移动-Web-第一天"><a href="#移动-Web-第一天" class="headerlink" title="移动 Web 第一天"></a>移动 Web 第一天</h1><h2 id="01-空间转换"><a href="#01-空间转换" class="headerlink" title="01-空间转换"></a>01-空间转换</h2><h3 id="空间转换简介"><a href="#空间转换简介" class="headerlink" title="空间转换简介"></a>空间转换简介</h3><ul>
+<li>空间：是从坐标轴角度定义的 X 、Y 和 Z 三条坐标轴构成了一个立体空间，Z 轴位置与视线方向相同。</li>
+<li>空间转换也叫 3D转换</li>
+<li>属性：transform</li>
+</ul>
+<p><img src="/./%E7%A7%BB%E5%8A%A8Web%E7%AC%AC%E4%BA%8C%E5%A4%A9.assets/1681723381377.png" alt="1681723381377"></p>
+<h3 id="平移"><a href="#平移" class="headerlink" title="平移"></a>平移</h3> <figure class="highlight css"><table><tr><td class="code"><pre><span class="line"><span class="attribute">transform</span>: <span class="built_in">translate3d</span>(x, y, z);</span><br><span class="line"><span class="attribute">transform</span>: <span class="built_in">translateX</span>();</span><br><span class="line"><span class="attribute">transform</span>: <span class="built_in">translateY</span>();</span><br><span class="line"><span class="attribute">transform</span>: <span class="built_in">translateZ</span>();</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>取值与平面转换相同</p>
+<p>默认情况下，Z 轴平移没有效果，原因：电脑屏幕默认是平面，无法显示 Z 轴平移效果</p>
+</blockquote>
+<h3 id="视距"><a href="#视距" class="headerlink" title="视距"></a>视距</h3><p>作用：指定了观察者与 Z&#x3D;0 平面的距离，为元素添加透视效果</p>
+<p>透视效果：近大远小、近实远虚</p>
+<p>属性：(添加给父级，取值范围 800-1200)</p>
+<figure class="highlight css"><table><tr><td class="code"><pre><span class="line"><span class="attribute">perspective</span>: 视距;</span><br></pre></td></tr></table></figure>
+
+<p><img src="/./%E7%A7%BB%E5%8A%A8Web%E7%AC%AC%E4%BA%8C%E5%A4%A9.assets/1681723504103.png" alt="1681723504103"></p>
+<h3 id="旋转"><a href="#旋转" class="headerlink" title="旋转"></a>旋转</h3><ul>
+<li>Z 轴：rotateZ()</li>
+</ul>
+<p><img src="/./%E7%A7%BB%E5%8A%A8Web%E7%AC%AC%E4%BA%8C%E5%A4%A9.assets/1681723549616.png" alt="1681723549616"></p>
+<ul>
+<li>X 轴：rotateX()</li>
+</ul>
+<p><img src="/./%E7%A7%BB%E5%8A%A8Web%E7%AC%AC%E4%BA%8C%E5%A4%A9.assets/1681723568598.png" alt="1681723568598"></p>
+<ul>
+<li>Y 轴：rotateY()</li>
+</ul>
+<p><img src="/./%E7%A7%BB%E5%8A%A8Web%E7%AC%AC%E4%BA%8C%E5%A4%A9.assets/1681723587974.png" alt="1681723587974"></p>
+<h3 id="左手法则"><a href="#左手法则" class="headerlink" title="左手法则"></a>左手法则</h3><p>作用：根据旋转方向确定取值正负</p>
+<p>使用：左手握住旋转轴, 拇指指向正值方向, 其他四个手指弯曲方向为旋转正值方向 </p>
+<p><img src="/./%E7%A7%BB%E5%8A%A8Web%E7%AC%AC%E4%BA%8C%E5%A4%A9.assets/1681723629410.png" alt="1681723629410"></p>
+<h3 id="rotate3d-了解"><a href="#rotate3d-了解" class="headerlink" title="rotate3d-了解"></a>rotate3d-了解</h3><ul>
+<li>rotate3d(x, y, z, 角度度数) ：用来设置自定义旋转轴的位置及旋转的角度</li>
+<li>x，y，z 取值为0-1之间的数字</li>
+</ul>
+<h3 id="立体呈现"><a href="#立体呈现" class="headerlink" title="立体呈现"></a>立体呈现</h3><p>作用：设置元素的子元素是位于 3D 空间中还是平面中</p>
+<p>属性名：transform-style</p>
+<p>属性值：</p>
+<ul>
+<li>flat：子级处于平面中</li>
+<li>preserve-3d：子级处于 3D 空间</li>
+</ul>
+<h3 id="案例-3d导航"><a href="#案例-3d导航" class="headerlink" title="案例-3d导航"></a>案例-3d导航</h3><p><img src="/./%E7%A7%BB%E5%8A%A8Web%E7%AC%AC%E4%BA%8C%E5%A4%A9.assets/1681723704637.png" alt="1681723704637"></p>
+<p>案例步骤：</p>
+<ol>
+<li>搭建立方体<ol>
+<li>绿色是立方体的前面</li>
+<li>橙色是立方体的上面</li>
+</ol>
+</li>
+<li>鼠标悬停，立方体旋转</li>
+</ol>
+<p><img src="/./%E7%A7%BB%E5%8A%A8Web%E7%AC%AC%E4%BA%8C%E5%A4%A9.assets/1681723746854.png" alt="1681723746854"></p>
+<p><img src="/./%E7%A7%BB%E5%8A%A8Web%E7%AC%AC%E4%BA%8C%E5%A4%A9.assets/1681723827660.png" alt="1681723827660"></p>
+<figure class="highlight css"><table><tr><td class="code"><pre><span class="line"><span class="selector-class">.nav</span> <span class="selector-tag">li</span> &#123;</span><br><span class="line">  <span class="attribute">position</span>: relative;</span><br><span class="line">  <span class="attribute">width</span>: <span class="number">100px</span>;</span><br><span class="line">  <span class="attribute">height</span>: <span class="number">40px</span>;</span><br><span class="line">  <span class="attribute">line-height</span>: <span class="number">40px</span>;</span><br><span class="line">  <span class="attribute">transition</span>: all <span class="number">0.5s</span>;</span><br><span class="line"></span><br><span class="line">  <span class="attribute">transform-style</span>: preserve-<span class="number">3</span>d;</span><br><span class="line"></span><br><span class="line">  <span class="comment">/* 为了看到橙色和绿色的移动过程，给立方体添加旋转 */</span></span><br><span class="line">  <span class="comment">/* transform: rotateX(-20deg) rotateY(30deg); */</span></span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="selector-class">.nav</span> <span class="selector-tag">li</span> <span class="selector-tag">a</span> &#123;</span><br><span class="line">  <span class="attribute">position</span>: absolute;</span><br><span class="line">  <span class="attribute">left</span>: <span class="number">0</span>;</span><br><span class="line">  <span class="attribute">top</span>: <span class="number">0</span>;</span><br><span class="line">  <span class="attribute">display</span>: block;</span><br><span class="line">  <span class="attribute">width</span>: <span class="number">100%</span>;</span><br><span class="line">  <span class="attribute">height</span>: <span class="number">100%</span>;</span><br><span class="line">  <span class="attribute">text-align</span>: center;</span><br><span class="line">  <span class="attribute">text-decoration</span>: none;</span><br><span class="line">  <span class="attribute">color</span>: <span class="number">#fff</span>;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="comment">/* 立方体每个面都有独立的坐标轴，互不影响 */</span></span><br><span class="line"><span class="selector-class">.nav</span> <span class="selector-tag">li</span> <span class="selector-tag">a</span><span class="selector-pseudo">:first</span>-child &#123;</span><br><span class="line">  <span class="attribute">background-color</span>: green;</span><br><span class="line">  <span class="attribute">transform</span>: <span class="built_in">translateZ</span>(<span class="number">20px</span>);</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="selector-class">.nav</span> <span class="selector-tag">li</span> <span class="selector-tag">a</span><span class="selector-pseudo">:last-child</span> &#123;</span><br><span class="line">  <span class="attribute">background-color</span>: orange;</span><br><span class="line">  <span class="attribute">transform</span>: <span class="built_in">rotateX</span>(<span class="number">90deg</span>) <span class="built_in">translateZ</span>(<span class="number">20px</span>);</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="selector-class">.nav</span> <span class="selector-tag">li</span><span class="selector-pseudo">:hover</span> &#123;</span><br><span class="line">  <span class="attribute">transform</span>: <span class="built_in">rotateX</span>(-<span class="number">90deg</span>);</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<h3 id="缩放"><a href="#缩放" class="headerlink" title="缩放"></a>缩放</h3><figure class="highlight css"><table><tr><td class="code"><pre><span class="line"><span class="attribute">transform</span>: <span class="built_in">scale3d</span>(x, y, z);</span><br><span class="line"><span class="attribute">transform</span>: <span class="built_in">scaleX</span>();</span><br><span class="line"><span class="attribute">transform</span>: <span class="built_in">scaleY</span>();</span><br><span class="line"><span class="attribute">transform</span>: <span class="built_in">scaleZ</span>();</span><br></pre></td></tr></table></figure>
+
+
+
+<h2 id="02-动画"><a href="#02-动画" class="headerlink" title="02-动画"></a>02-动画</h2><ul>
+<li>过渡：实现两个状态间的变化过程</li>
+<li>动画：实现多个状态间的变化过程，动画过程可控（重复播放、最终画面、是否暂停）</li>
+</ul>
+<h3 id="动画实现步骤"><a href="#动画实现步骤" class="headerlink" title="动画实现步骤"></a>动画实现步骤</h3><ol>
+<li>定义动画</li>
+</ol>
+<figure class="highlight css"><table><tr><td class="code"><pre><span class="line"><span class="comment">/* 方式一 */</span></span><br><span class="line"><span class="keyword">@keyframes</span> 动画名称 &#123;</span><br><span class="line">  <span class="selector-tag">from</span> &#123;&#125;</span><br><span class="line">  <span class="selector-tag">to</span> &#123;&#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="comment">/* 方式二 */</span></span><br><span class="line"><span class="keyword">@keyframes</span> 动画名称 &#123;</span><br><span class="line">  <span class="number">0%</span> &#123;&#125;</span><br><span class="line">  <span class="number">10%</span> &#123;&#125;</span><br><span class="line">  ......</span><br><span class="line">  <span class="number">100%</span> &#123;&#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<ol start="2">
+<li>使用动画</li>
+</ol>
+<figure class="highlight css"><table><tr><td class="code"><pre><span class="line"><span class="attribute">animation</span>: 动画名称 动画花费时长;</span><br></pre></td></tr></table></figure>
+
+<h3 id="animation复合属性"><a href="#animation复合属性" class="headerlink" title="animation复合属性"></a>animation复合属性</h3><p><img src="/./%E7%A7%BB%E5%8A%A8Web%E7%AC%AC%E4%BA%8C%E5%A4%A9.assets/1681723979998.png" alt="1681723979998"></p>
+<p>提示：</p>
+<ul>
+<li>动画名称和动画时长必须赋值</li>
+<li>取值不分先后顺序</li>
+<li>如果有两个时间值，第一个时间表示动画时长，第二个时间表示延迟时间</li>
+</ul>
+<h3 id="animation拆分写法"><a href="#animation拆分写法" class="headerlink" title="animation拆分写法"></a>animation拆分写法</h3><p><img src="/./%E7%A7%BB%E5%8A%A8Web%E7%AC%AC%E4%BA%8C%E5%A4%A9.assets/1681724035890.png" alt="1681724035890"></p>
+<h3 id="案例-走马灯"><a href="#案例-走马灯" class="headerlink" title="案例-走马灯"></a>案例-走马灯</h3><p><img src="/./%E7%A7%BB%E5%8A%A8Web%E7%AC%AC%E4%BA%8C%E5%A4%A9.assets/1681724053648.png" alt="1681724053648"></p>
+<ul>
+<li>HTML 结构</li>
+</ul>
+<figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">li</span>&gt;</span><span class="tag">&lt;<span class="name">img</span> <span class="attr">src</span>=<span class="string">&quot;./images/1.jpg&quot;</span> <span class="attr">alt</span>=<span class="string">&quot;&quot;</span> /&gt;</span><span class="tag">&lt;/<span class="name">li</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">li</span>&gt;</span><span class="tag">&lt;<span class="name">img</span> <span class="attr">src</span>=<span class="string">&quot;./images/2.jpg&quot;</span> <span class="attr">alt</span>=<span class="string">&quot;&quot;</span> /&gt;</span><span class="tag">&lt;/<span class="name">li</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">li</span>&gt;</span><span class="tag">&lt;<span class="name">img</span> <span class="attr">src</span>=<span class="string">&quot;./images/3.jpg&quot;</span> <span class="attr">alt</span>=<span class="string">&quot;&quot;</span> /&gt;</span><span class="tag">&lt;/<span class="name">li</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">li</span>&gt;</span><span class="tag">&lt;<span class="name">img</span> <span class="attr">src</span>=<span class="string">&quot;./images/4.jpg&quot;</span> <span class="attr">alt</span>=<span class="string">&quot;&quot;</span> /&gt;</span><span class="tag">&lt;/<span class="name">li</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">li</span>&gt;</span><span class="tag">&lt;<span class="name">img</span> <span class="attr">src</span>=<span class="string">&quot;./images/5.jpg&quot;</span> <span class="attr">alt</span>=<span class="string">&quot;&quot;</span> /&gt;</span><span class="tag">&lt;/<span class="name">li</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">li</span>&gt;</span><span class="tag">&lt;<span class="name">img</span> <span class="attr">src</span>=<span class="string">&quot;./images/6.jpg&quot;</span> <span class="attr">alt</span>=<span class="string">&quot;&quot;</span> /&gt;</span><span class="tag">&lt;/<span class="name">li</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">li</span>&gt;</span><span class="tag">&lt;<span class="name">img</span> <span class="attr">src</span>=<span class="string">&quot;./images/7.jpg&quot;</span> <span class="attr">alt</span>=<span class="string">&quot;&quot;</span> /&gt;</span><span class="tag">&lt;/<span class="name">li</span>&gt;</span></span><br><span class="line"><span class="comment">&lt;!-- 替身：填补显示区域的露白 --&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">li</span>&gt;</span><span class="tag">&lt;<span class="name">img</span> <span class="attr">src</span>=<span class="string">&quot;./images/1.jpg&quot;</span> <span class="attr">alt</span>=<span class="string">&quot;&quot;</span> /&gt;</span><span class="tag">&lt;/<span class="name">li</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">li</span>&gt;</span><span class="tag">&lt;<span class="name">img</span> <span class="attr">src</span>=<span class="string">&quot;./images/2.jpg&quot;</span> <span class="attr">alt</span>=<span class="string">&quot;&quot;</span> /&gt;</span><span class="tag">&lt;/<span class="name">li</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">li</span>&gt;</span><span class="tag">&lt;<span class="name">img</span> <span class="attr">src</span>=<span class="string">&quot;./images/3.jpg&quot;</span> <span class="attr">alt</span>=<span class="string">&quot;&quot;</span> /&gt;</span><span class="tag">&lt;/<span class="name">li</span>&gt;</span></span><br></pre></td></tr></table></figure>
+
+<ul>
+<li>CSS 样式</li>
+</ul>
+<figure class="highlight css"><table><tr><td class="code"><pre><span class="line"><span class="selector-class">.box</span> &#123;</span><br><span class="line">  <span class="attribute">width</span>: <span class="number">600px</span>;</span><br><span class="line">  <span class="attribute">height</span>: <span class="number">112px</span>;</span><br><span class="line">  <span class="attribute">border</span>: <span class="number">5px</span> solid <span class="number">#000</span>;</span><br><span class="line">  <span class="attribute">margin</span>: <span class="number">100px</span> auto;</span><br><span class="line">  <span class="attribute">overflow</span>: hidden;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="selector-class">.box</span> <span class="selector-tag">ul</span> &#123;</span><br><span class="line">  <span class="attribute">display</span>: flex;</span><br><span class="line">  <span class="attribute">animation</span>: move <span class="number">6s</span> infinite linear;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="comment">/* 定义位移动画；ul使用动画；鼠标悬停暂停动画 */</span></span><br><span class="line"><span class="keyword">@keyframes</span> move &#123;</span><br><span class="line">  <span class="number">0%</span> &#123;</span><br><span class="line">    <span class="attribute">transform</span>: <span class="built_in">translate</span>(<span class="number">0</span>);</span><br><span class="line">  &#125;</span><br><span class="line">  <span class="number">100%</span> &#123;</span><br><span class="line">    <span class="attribute">transform</span>: <span class="built_in">translate</span>(-<span class="number">1400px</span>);</span><br><span class="line">  &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="selector-class">.box</span><span class="selector-pseudo">:hover</span> <span class="selector-tag">ul</span> &#123;</span><br><span class="line">  <span class="attribute">animation-play-state</span>: paused;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>无缝动画原理：复制开头图片到结尾位置（图片累加宽度 &#x3D; 区域宽度） </p>
+</blockquote>
+<h3 id="精灵动画"><a href="#精灵动画" class="headerlink" title="精灵动画"></a>精灵动画</h3><ul>
+<li>核心</li>
+</ul>
+<p><img src="/./%E7%A7%BB%E5%8A%A8Web%E7%AC%AC%E4%BA%8C%E5%A4%A9.assets/1681724175321.png" alt="1681724175321"></p>
+<ul>
+<li><p>制作步骤</p>
+<p>1.准备显示区域</p>
+<p>盒子尺寸与一张精灵小图尺寸相同</p>
+<p>2.定义动画</p>
+<p>移动背景图（移动距离 &#x3D; 精灵图宽度）</p>
+<p>3.使用动画</p>
+<p>steps(N)，N 与精灵小图个数相同</p>
+</li>
+</ul>
+<figure class="highlight css"><table><tr><td class="code"><pre><span class="line"><span class="selector-tag">div</span> &#123;</span><br><span class="line">  <span class="attribute">width</span>: <span class="number">140px</span>;</span><br><span class="line">  <span class="attribute">height</span>: <span class="number">140px</span>;</span><br><span class="line">  <span class="attribute">border</span>: <span class="number">1px</span> solid <span class="number">#000</span>;</span><br><span class="line">  <span class="attribute">background-image</span>: <span class="built_in">url</span>(<span class="string">./images/bg.png</span>);</span><br><span class="line">  <span class="attribute">animation</span>: run <span class="number">1s</span> <span class="built_in">steps</span>(<span class="number">12</span>) infinite;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="keyword">@keyframes</span> run &#123;</span><br><span class="line">  <span class="selector-tag">from</span> &#123;</span><br><span class="line">    <span class="attribute">background-position</span>: <span class="number">0</span> <span class="number">0</span>;</span><br><span class="line">  &#125;</span><br><span class="line">  <span class="selector-tag">to</span> &#123;</span><br><span class="line">    <span class="attribute">background-position</span>: -<span class="number">1680px</span> <span class="number">0</span>;</span><br><span class="line">  &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<h3 id="多组动画"><a href="#多组动画" class="headerlink" title="多组动画"></a>多组动画</h3><figure class="highlight css"><table><tr><td class="code"><pre><span class="line"><span class="attribute">animation</span>: </span><br><span class="line">  动画一,</span><br><span class="line">  动画二,</span><br><span class="line">  ... ...</span><br><span class="line">;</span><br></pre></td></tr></table></figure>
+
+
+
+<h2 id="03-综合案例-全名出游"><a href="#03-综合案例-全名出游" class="headerlink" title="03-综合案例-全名出游"></a>03-综合案例-全名出游</h2><p><img src="/./%E7%A7%BB%E5%8A%A8Web%E7%AC%AC%E4%BA%8C%E5%A4%A9.assets/1681724426559.png" alt="1681724426559"></p>
+<h3 id="背景"><a href="#背景" class="headerlink" title="背景"></a>背景</h3><figure class="highlight css"><table><tr><td class="code"><pre><span class="line"><span class="comment">/* 大背景 */</span></span><br><span class="line"><span class="comment">/* 默认状态HTML和body的高度是0，所以导致cover缩放背景图不成功 */</span></span><br><span class="line"><span class="selector-tag">html</span> &#123;</span><br><span class="line">  <span class="attribute">height</span>: <span class="number">100%</span>;</span><br><span class="line">&#125;</span><br><span class="line"><span class="selector-tag">body</span> &#123;</span><br><span class="line">  <span class="attribute">height</span>: <span class="number">100%</span>;</span><br><span class="line">  <span class="attribute">background</span>: <span class="built_in">url</span>(<span class="string">../images/f1_1.jpg</span>) no-repeat center <span class="number">0</span> / cover;</span><br><span class="line">  <span class="comment">/* background-size: cover; */</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<h3 id="云彩位置和动画"><a href="#云彩位置和动画" class="headerlink" title="云彩位置和动画"></a>云彩位置和动画</h3><ul>
+<li>HTML 结构</li>
+</ul>
+<figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="comment">&lt;!-- 云 --&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">div</span> <span class="attr">class</span>=<span class="string">&quot;cloud&quot;</span>&gt;</span></span><br><span class="line">  <span class="tag">&lt;<span class="name">img</span> <span class="attr">src</span>=<span class="string">&quot;./images/yun1.png&quot;</span> <span class="attr">alt</span>=<span class="string">&quot;&quot;</span>&gt;</span></span><br><span class="line">  <span class="tag">&lt;<span class="name">img</span> <span class="attr">src</span>=<span class="string">&quot;./images/yun2.png&quot;</span> <span class="attr">alt</span>=<span class="string">&quot;&quot;</span>&gt;</span></span><br><span class="line">  <span class="tag">&lt;<span class="name">img</span> <span class="attr">src</span>=<span class="string">&quot;./images/yun3.png&quot;</span> <span class="attr">alt</span>=<span class="string">&quot;&quot;</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">div</span>&gt;</span></span><br></pre></td></tr></table></figure>
+
+<ul>
+<li>CSS 样式</li>
+</ul>
+<figure class="highlight css"><table><tr><td class="code"><pre><span class="line"><span class="comment">/* 云 */</span></span><br><span class="line"><span class="selector-class">.cloud</span> <span class="selector-tag">img</span> &#123;</span><br><span class="line">  <span class="attribute">position</span>: absolute;</span><br><span class="line">  <span class="attribute">left</span>: <span class="number">50%</span>;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="selector-class">.cloud</span> <span class="selector-tag">img</span><span class="selector-pseudo">:nth-child</span>(<span class="number">1</span>) &#123;</span><br><span class="line">  <span class="attribute">margin-left</span>: -<span class="number">250px</span>;</span><br><span class="line">  <span class="attribute">top</span>: <span class="number">20px</span>;</span><br><span class="line">  <span class="attribute">animation</span>: cloud <span class="number">1s</span> infinite alternate linear;</span><br><span class="line">&#125;</span><br><span class="line"><span class="selector-class">.cloud</span> <span class="selector-tag">img</span><span class="selector-pseudo">:nth-child</span>(<span class="number">2</span>) &#123;</span><br><span class="line">  <span class="attribute">margin-left</span>: <span class="number">400px</span>;</span><br><span class="line">  <span class="attribute">top</span>: <span class="number">100px</span>;</span><br><span class="line">  <span class="attribute">animation</span>: cloud <span class="number">1s</span> infinite alternate linear <span class="number">0.4s</span>;</span><br><span class="line">&#125;</span><br><span class="line"><span class="selector-class">.cloud</span> <span class="selector-tag">img</span><span class="selector-pseudo">:nth-child</span>(<span class="number">3</span>) &#123;</span><br><span class="line">  <span class="attribute">margin-left</span>: -<span class="number">550px</span>;</span><br><span class="line">  <span class="attribute">top</span>: <span class="number">200px</span>;</span><br><span class="line">  <span class="attribute">animation</span>: cloud <span class="number">1s</span> infinite alternate linear <span class="number">0.6s</span>;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="keyword">@keyframes</span> cloud &#123;</span><br><span class="line">  <span class="number">100%</span> &#123;</span><br><span class="line">    <span class="attribute">transform</span>: <span class="built_in">translate</span>(<span class="number">20px</span>);</span><br><span class="line">  &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<h3 id="文字动画"><a href="#文字动画" class="headerlink" title="文字动画"></a>文字动画</h3><ul>
+<li>HTML 结构</li>
+</ul>
+<figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="comment">&lt;!-- 文字 --&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">div</span> <span class="attr">class</span>=<span class="string">&quot;text&quot;</span>&gt;</span></span><br><span class="line">  <span class="tag">&lt;<span class="name">img</span> <span class="attr">src</span>=<span class="string">&quot;./images/font1.png&quot;</span> <span class="attr">alt</span>=<span class="string">&quot;&quot;</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">div</span>&gt;</span></span><br></pre></td></tr></table></figure>
+
+<ul>
+<li>CSS 样式</li>
+</ul>
+<figure class="highlight css"><table><tr><td class="code"><pre><span class="line"><span class="comment">/* 文字 */</span></span><br><span class="line"><span class="selector-class">.text</span> <span class="selector-tag">img</span> &#123;</span><br><span class="line">  <span class="attribute">position</span>: absolute;</span><br><span class="line">  <span class="attribute">left</span>: <span class="number">50%</span>;</span><br><span class="line">  <span class="attribute">top</span>: <span class="number">50%</span>;</span><br><span class="line">  <span class="attribute">transform</span>: <span class="built_in">translate</span>(-<span class="number">50%</span>, -<span class="number">50%</span>);</span><br><span class="line">  <span class="attribute">animation</span>: text <span class="number">1s</span>;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="comment">/* 默认 → 小 → 大 → 小 → 默认 */</span></span><br><span class="line"><span class="keyword">@keyframes</span> text &#123;</span><br><span class="line">  <span class="number">0%</span> &#123;</span><br><span class="line">    <span class="attribute">transform</span>: <span class="built_in">translate</span>(-<span class="number">50%</span>, -<span class="number">50%</span>) <span class="built_in">scale</span>(<span class="number">1</span>);</span><br><span class="line">  &#125;</span><br><span class="line">  <span class="number">20%</span> &#123;</span><br><span class="line">    <span class="attribute">transform</span>: <span class="built_in">translate</span>(-<span class="number">50%</span>, -<span class="number">50%</span>) <span class="built_in">scale</span>(<span class="number">0.1</span>);</span><br><span class="line">  &#125;</span><br><span class="line">  <span class="number">40%</span> &#123;</span><br><span class="line">    <span class="attribute">transform</span>: <span class="built_in">translate</span>(-<span class="number">50%</span>, -<span class="number">50%</span>) <span class="built_in">scale</span>(<span class="number">1.4</span>);</span><br><span class="line">  &#125;</span><br><span class="line">  <span class="number">70%</span> &#123;</span><br><span class="line">    <span class="attribute">transform</span>: <span class="built_in">translate</span>(-<span class="number">50%</span>, -<span class="number">50%</span>) <span class="built_in">scale</span>(<span class="number">0.8</span>);</span><br><span class="line">  &#125;</span><br><span class="line">  <span class="number">100%</span> &#123;</span><br><span class="line">    <span class="attribute">transform</span>: <span class="built_in">translate</span>(-<span class="number">50%</span>, -<span class="number">50%</span>) <span class="built_in">scale</span>(<span class="number">1</span>);</span><br><span class="line">  &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+]]></content>
+  </entry>
+  <entry>
     <title>移动web第一天</title>
     <url>/2023/11/14/01%E5%89%8D%E7%AB%AF/%E7%A7%BB%E5%8A%A8web%E7%AC%AC%E4%B8%80%E5%A4%A9/</url>
     <content><![CDATA[<h1 id="移动-Web-第一天"><a href="#移动-Web-第一天" class="headerlink" title="移动 Web 第一天"></a>移动 Web 第一天</h1><blockquote>
@@ -1833,149 +1912,70 @@ style="height: 300px;
 ]]></content>
   </entry>
   <entry>
-    <title>移动Web第二天</title>
-    <url>/2023/11/14/01%E5%89%8D%E7%AB%AF/%E7%A7%BB%E5%8A%A8Web%E7%AC%AC%E4%BA%8C%E5%A4%A9/</url>
-    <content><![CDATA[<h1 id="移动-Web-第一天"><a href="#移动-Web-第一天" class="headerlink" title="移动 Web 第一天"></a>移动 Web 第一天</h1><h2 id="01-空间转换"><a href="#01-空间转换" class="headerlink" title="01-空间转换"></a>01-空间转换</h2><h3 id="空间转换简介"><a href="#空间转换简介" class="headerlink" title="空间转换简介"></a>空间转换简介</h3><ul>
-<li>空间：是从坐标轴角度定义的 X 、Y 和 Z 三条坐标轴构成了一个立体空间，Z 轴位置与视线方向相同。</li>
-<li>空间转换也叫 3D转换</li>
-<li>属性：transform</li>
-</ul>
-<p><img src="/./%E7%A7%BB%E5%8A%A8Web%E7%AC%AC%E4%BA%8C%E5%A4%A9.assets/1681723381377.png" alt="1681723381377"></p>
-<h3 id="平移"><a href="#平移" class="headerlink" title="平移"></a>平移</h3> <figure class="highlight css"><table><tr><td class="code"><pre><span class="line"><span class="attribute">transform</span>: <span class="built_in">translate3d</span>(x, y, z);</span><br><span class="line"><span class="attribute">transform</span>: <span class="built_in">translateX</span>();</span><br><span class="line"><span class="attribute">transform</span>: <span class="built_in">translateY</span>();</span><br><span class="line"><span class="attribute">transform</span>: <span class="built_in">translateZ</span>();</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>取值与平面转换相同</p>
-<p>默认情况下，Z 轴平移没有效果，原因：电脑屏幕默认是平面，无法显示 Z 轴平移效果</p>
-</blockquote>
-<h3 id="视距"><a href="#视距" class="headerlink" title="视距"></a>视距</h3><p>作用：指定了观察者与 Z&#x3D;0 平面的距离，为元素添加透视效果</p>
-<p>透视效果：近大远小、近实远虚</p>
-<p>属性：(添加给父级，取值范围 800-1200)</p>
-<figure class="highlight css"><table><tr><td class="code"><pre><span class="line"><span class="attribute">perspective</span>: 视距;</span><br></pre></td></tr></table></figure>
-
-<p><img src="/./%E7%A7%BB%E5%8A%A8Web%E7%AC%AC%E4%BA%8C%E5%A4%A9.assets/1681723504103.png" alt="1681723504103"></p>
-<h3 id="旋转"><a href="#旋转" class="headerlink" title="旋转"></a>旋转</h3><ul>
-<li>Z 轴：rotateZ()</li>
-</ul>
-<p><img src="/./%E7%A7%BB%E5%8A%A8Web%E7%AC%AC%E4%BA%8C%E5%A4%A9.assets/1681723549616.png" alt="1681723549616"></p>
-<ul>
-<li>X 轴：rotateX()</li>
-</ul>
-<p><img src="/./%E7%A7%BB%E5%8A%A8Web%E7%AC%AC%E4%BA%8C%E5%A4%A9.assets/1681723568598.png" alt="1681723568598"></p>
-<ul>
-<li>Y 轴：rotateY()</li>
-</ul>
-<p><img src="/./%E7%A7%BB%E5%8A%A8Web%E7%AC%AC%E4%BA%8C%E5%A4%A9.assets/1681723587974.png" alt="1681723587974"></p>
-<h3 id="左手法则"><a href="#左手法则" class="headerlink" title="左手法则"></a>左手法则</h3><p>作用：根据旋转方向确定取值正负</p>
-<p>使用：左手握住旋转轴, 拇指指向正值方向, 其他四个手指弯曲方向为旋转正值方向 </p>
-<p><img src="/./%E7%A7%BB%E5%8A%A8Web%E7%AC%AC%E4%BA%8C%E5%A4%A9.assets/1681723629410.png" alt="1681723629410"></p>
-<h3 id="rotate3d-了解"><a href="#rotate3d-了解" class="headerlink" title="rotate3d-了解"></a>rotate3d-了解</h3><ul>
-<li>rotate3d(x, y, z, 角度度数) ：用来设置自定义旋转轴的位置及旋转的角度</li>
-<li>x，y，z 取值为0-1之间的数字</li>
-</ul>
-<h3 id="立体呈现"><a href="#立体呈现" class="headerlink" title="立体呈现"></a>立体呈现</h3><p>作用：设置元素的子元素是位于 3D 空间中还是平面中</p>
-<p>属性名：transform-style</p>
-<p>属性值：</p>
-<ul>
-<li>flat：子级处于平面中</li>
-<li>preserve-3d：子级处于 3D 空间</li>
-</ul>
-<h3 id="案例-3d导航"><a href="#案例-3d导航" class="headerlink" title="案例-3d导航"></a>案例-3d导航</h3><p><img src="/./%E7%A7%BB%E5%8A%A8Web%E7%AC%AC%E4%BA%8C%E5%A4%A9.assets/1681723704637.png" alt="1681723704637"></p>
-<p>案例步骤：</p>
-<ol>
-<li>搭建立方体<ol>
-<li>绿色是立方体的前面</li>
-<li>橙色是立方体的上面</li>
-</ol>
-</li>
-<li>鼠标悬停，立方体旋转</li>
-</ol>
-<p><img src="/./%E7%A7%BB%E5%8A%A8Web%E7%AC%AC%E4%BA%8C%E5%A4%A9.assets/1681723746854.png" alt="1681723746854"></p>
-<p><img src="/./%E7%A7%BB%E5%8A%A8Web%E7%AC%AC%E4%BA%8C%E5%A4%A9.assets/1681723827660.png" alt="1681723827660"></p>
-<figure class="highlight css"><table><tr><td class="code"><pre><span class="line"><span class="selector-class">.nav</span> <span class="selector-tag">li</span> &#123;</span><br><span class="line">  <span class="attribute">position</span>: relative;</span><br><span class="line">  <span class="attribute">width</span>: <span class="number">100px</span>;</span><br><span class="line">  <span class="attribute">height</span>: <span class="number">40px</span>;</span><br><span class="line">  <span class="attribute">line-height</span>: <span class="number">40px</span>;</span><br><span class="line">  <span class="attribute">transition</span>: all <span class="number">0.5s</span>;</span><br><span class="line"></span><br><span class="line">  <span class="attribute">transform-style</span>: preserve-<span class="number">3</span>d;</span><br><span class="line"></span><br><span class="line">  <span class="comment">/* 为了看到橙色和绿色的移动过程，给立方体添加旋转 */</span></span><br><span class="line">  <span class="comment">/* transform: rotateX(-20deg) rotateY(30deg); */</span></span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="selector-class">.nav</span> <span class="selector-tag">li</span> <span class="selector-tag">a</span> &#123;</span><br><span class="line">  <span class="attribute">position</span>: absolute;</span><br><span class="line">  <span class="attribute">left</span>: <span class="number">0</span>;</span><br><span class="line">  <span class="attribute">top</span>: <span class="number">0</span>;</span><br><span class="line">  <span class="attribute">display</span>: block;</span><br><span class="line">  <span class="attribute">width</span>: <span class="number">100%</span>;</span><br><span class="line">  <span class="attribute">height</span>: <span class="number">100%</span>;</span><br><span class="line">  <span class="attribute">text-align</span>: center;</span><br><span class="line">  <span class="attribute">text-decoration</span>: none;</span><br><span class="line">  <span class="attribute">color</span>: <span class="number">#fff</span>;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="comment">/* 立方体每个面都有独立的坐标轴，互不影响 */</span></span><br><span class="line"><span class="selector-class">.nav</span> <span class="selector-tag">li</span> <span class="selector-tag">a</span><span class="selector-pseudo">:first</span>-child &#123;</span><br><span class="line">  <span class="attribute">background-color</span>: green;</span><br><span class="line">  <span class="attribute">transform</span>: <span class="built_in">translateZ</span>(<span class="number">20px</span>);</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="selector-class">.nav</span> <span class="selector-tag">li</span> <span class="selector-tag">a</span><span class="selector-pseudo">:last-child</span> &#123;</span><br><span class="line">  <span class="attribute">background-color</span>: orange;</span><br><span class="line">  <span class="attribute">transform</span>: <span class="built_in">rotateX</span>(<span class="number">90deg</span>) <span class="built_in">translateZ</span>(<span class="number">20px</span>);</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="selector-class">.nav</span> <span class="selector-tag">li</span><span class="selector-pseudo">:hover</span> &#123;</span><br><span class="line">  <span class="attribute">transform</span>: <span class="built_in">rotateX</span>(-<span class="number">90deg</span>);</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<h3 id="缩放"><a href="#缩放" class="headerlink" title="缩放"></a>缩放</h3><figure class="highlight css"><table><tr><td class="code"><pre><span class="line"><span class="attribute">transform</span>: <span class="built_in">scale3d</span>(x, y, z);</span><br><span class="line"><span class="attribute">transform</span>: <span class="built_in">scaleX</span>();</span><br><span class="line"><span class="attribute">transform</span>: <span class="built_in">scaleY</span>();</span><br><span class="line"><span class="attribute">transform</span>: <span class="built_in">scaleZ</span>();</span><br></pre></td></tr></table></figure>
-
-
-
-<h2 id="02-动画"><a href="#02-动画" class="headerlink" title="02-动画"></a>02-动画</h2><ul>
-<li>过渡：实现两个状态间的变化过程</li>
-<li>动画：实现多个状态间的变化过程，动画过程可控（重复播放、最终画面、是否暂停）</li>
-</ul>
-<h3 id="动画实现步骤"><a href="#动画实现步骤" class="headerlink" title="动画实现步骤"></a>动画实现步骤</h3><ol>
-<li>定义动画</li>
-</ol>
-<figure class="highlight css"><table><tr><td class="code"><pre><span class="line"><span class="comment">/* 方式一 */</span></span><br><span class="line"><span class="keyword">@keyframes</span> 动画名称 &#123;</span><br><span class="line">  <span class="selector-tag">from</span> &#123;&#125;</span><br><span class="line">  <span class="selector-tag">to</span> &#123;&#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="comment">/* 方式二 */</span></span><br><span class="line"><span class="keyword">@keyframes</span> 动画名称 &#123;</span><br><span class="line">  <span class="number">0%</span> &#123;&#125;</span><br><span class="line">  <span class="number">10%</span> &#123;&#125;</span><br><span class="line">  ......</span><br><span class="line">  <span class="number">100%</span> &#123;&#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<ol start="2">
-<li>使用动画</li>
-</ol>
-<figure class="highlight css"><table><tr><td class="code"><pre><span class="line"><span class="attribute">animation</span>: 动画名称 动画花费时长;</span><br></pre></td></tr></table></figure>
-
-<h3 id="animation复合属性"><a href="#animation复合属性" class="headerlink" title="animation复合属性"></a>animation复合属性</h3><p><img src="/./%E7%A7%BB%E5%8A%A8Web%E7%AC%AC%E4%BA%8C%E5%A4%A9.assets/1681723979998.png" alt="1681723979998"></p>
-<p>提示：</p>
-<ul>
-<li>动画名称和动画时长必须赋值</li>
-<li>取值不分先后顺序</li>
-<li>如果有两个时间值，第一个时间表示动画时长，第二个时间表示延迟时间</li>
-</ul>
-<h3 id="animation拆分写法"><a href="#animation拆分写法" class="headerlink" title="animation拆分写法"></a>animation拆分写法</h3><p><img src="/./%E7%A7%BB%E5%8A%A8Web%E7%AC%AC%E4%BA%8C%E5%A4%A9.assets/1681724035890.png" alt="1681724035890"></p>
-<h3 id="案例-走马灯"><a href="#案例-走马灯" class="headerlink" title="案例-走马灯"></a>案例-走马灯</h3><p><img src="/./%E7%A7%BB%E5%8A%A8Web%E7%AC%AC%E4%BA%8C%E5%A4%A9.assets/1681724053648.png" alt="1681724053648"></p>
-<ul>
-<li>HTML 结构</li>
-</ul>
-<figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">li</span>&gt;</span><span class="tag">&lt;<span class="name">img</span> <span class="attr">src</span>=<span class="string">&quot;./images/1.jpg&quot;</span> <span class="attr">alt</span>=<span class="string">&quot;&quot;</span> /&gt;</span><span class="tag">&lt;/<span class="name">li</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">li</span>&gt;</span><span class="tag">&lt;<span class="name">img</span> <span class="attr">src</span>=<span class="string">&quot;./images/2.jpg&quot;</span> <span class="attr">alt</span>=<span class="string">&quot;&quot;</span> /&gt;</span><span class="tag">&lt;/<span class="name">li</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">li</span>&gt;</span><span class="tag">&lt;<span class="name">img</span> <span class="attr">src</span>=<span class="string">&quot;./images/3.jpg&quot;</span> <span class="attr">alt</span>=<span class="string">&quot;&quot;</span> /&gt;</span><span class="tag">&lt;/<span class="name">li</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">li</span>&gt;</span><span class="tag">&lt;<span class="name">img</span> <span class="attr">src</span>=<span class="string">&quot;./images/4.jpg&quot;</span> <span class="attr">alt</span>=<span class="string">&quot;&quot;</span> /&gt;</span><span class="tag">&lt;/<span class="name">li</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">li</span>&gt;</span><span class="tag">&lt;<span class="name">img</span> <span class="attr">src</span>=<span class="string">&quot;./images/5.jpg&quot;</span> <span class="attr">alt</span>=<span class="string">&quot;&quot;</span> /&gt;</span><span class="tag">&lt;/<span class="name">li</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">li</span>&gt;</span><span class="tag">&lt;<span class="name">img</span> <span class="attr">src</span>=<span class="string">&quot;./images/6.jpg&quot;</span> <span class="attr">alt</span>=<span class="string">&quot;&quot;</span> /&gt;</span><span class="tag">&lt;/<span class="name">li</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">li</span>&gt;</span><span class="tag">&lt;<span class="name">img</span> <span class="attr">src</span>=<span class="string">&quot;./images/7.jpg&quot;</span> <span class="attr">alt</span>=<span class="string">&quot;&quot;</span> /&gt;</span><span class="tag">&lt;/<span class="name">li</span>&gt;</span></span><br><span class="line"><span class="comment">&lt;!-- 替身：填补显示区域的露白 --&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">li</span>&gt;</span><span class="tag">&lt;<span class="name">img</span> <span class="attr">src</span>=<span class="string">&quot;./images/1.jpg&quot;</span> <span class="attr">alt</span>=<span class="string">&quot;&quot;</span> /&gt;</span><span class="tag">&lt;/<span class="name">li</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">li</span>&gt;</span><span class="tag">&lt;<span class="name">img</span> <span class="attr">src</span>=<span class="string">&quot;./images/2.jpg&quot;</span> <span class="attr">alt</span>=<span class="string">&quot;&quot;</span> /&gt;</span><span class="tag">&lt;/<span class="name">li</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">li</span>&gt;</span><span class="tag">&lt;<span class="name">img</span> <span class="attr">src</span>=<span class="string">&quot;./images/3.jpg&quot;</span> <span class="attr">alt</span>=<span class="string">&quot;&quot;</span> /&gt;</span><span class="tag">&lt;/<span class="name">li</span>&gt;</span></span><br></pre></td></tr></table></figure>
-
-<ul>
-<li>CSS 样式</li>
-</ul>
-<figure class="highlight css"><table><tr><td class="code"><pre><span class="line"><span class="selector-class">.box</span> &#123;</span><br><span class="line">  <span class="attribute">width</span>: <span class="number">600px</span>;</span><br><span class="line">  <span class="attribute">height</span>: <span class="number">112px</span>;</span><br><span class="line">  <span class="attribute">border</span>: <span class="number">5px</span> solid <span class="number">#000</span>;</span><br><span class="line">  <span class="attribute">margin</span>: <span class="number">100px</span> auto;</span><br><span class="line">  <span class="attribute">overflow</span>: hidden;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="selector-class">.box</span> <span class="selector-tag">ul</span> &#123;</span><br><span class="line">  <span class="attribute">display</span>: flex;</span><br><span class="line">  <span class="attribute">animation</span>: move <span class="number">6s</span> infinite linear;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="comment">/* 定义位移动画；ul使用动画；鼠标悬停暂停动画 */</span></span><br><span class="line"><span class="keyword">@keyframes</span> move &#123;</span><br><span class="line">  <span class="number">0%</span> &#123;</span><br><span class="line">    <span class="attribute">transform</span>: <span class="built_in">translate</span>(<span class="number">0</span>);</span><br><span class="line">  &#125;</span><br><span class="line">  <span class="number">100%</span> &#123;</span><br><span class="line">    <span class="attribute">transform</span>: <span class="built_in">translate</span>(-<span class="number">1400px</span>);</span><br><span class="line">  &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="selector-class">.box</span><span class="selector-pseudo">:hover</span> <span class="selector-tag">ul</span> &#123;</span><br><span class="line">  <span class="attribute">animation-play-state</span>: paused;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>无缝动画原理：复制开头图片到结尾位置（图片累加宽度 &#x3D; 区域宽度） </p>
-</blockquote>
-<h3 id="精灵动画"><a href="#精灵动画" class="headerlink" title="精灵动画"></a>精灵动画</h3><ul>
-<li>核心</li>
-</ul>
-<p><img src="/./%E7%A7%BB%E5%8A%A8Web%E7%AC%AC%E4%BA%8C%E5%A4%A9.assets/1681724175321.png" alt="1681724175321"></p>
-<ul>
-<li><p>制作步骤</p>
-<p>1.准备显示区域</p>
-<p>盒子尺寸与一张精灵小图尺寸相同</p>
-<p>2.定义动画</p>
-<p>移动背景图（移动距离 &#x3D; 精灵图宽度）</p>
-<p>3.使用动画</p>
-<p>steps(N)，N 与精灵小图个数相同</p>
-</li>
-</ul>
-<figure class="highlight css"><table><tr><td class="code"><pre><span class="line"><span class="selector-tag">div</span> &#123;</span><br><span class="line">  <span class="attribute">width</span>: <span class="number">140px</span>;</span><br><span class="line">  <span class="attribute">height</span>: <span class="number">140px</span>;</span><br><span class="line">  <span class="attribute">border</span>: <span class="number">1px</span> solid <span class="number">#000</span>;</span><br><span class="line">  <span class="attribute">background-image</span>: <span class="built_in">url</span>(<span class="string">./images/bg.png</span>);</span><br><span class="line">  <span class="attribute">animation</span>: run <span class="number">1s</span> <span class="built_in">steps</span>(<span class="number">12</span>) infinite;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="keyword">@keyframes</span> run &#123;</span><br><span class="line">  <span class="selector-tag">from</span> &#123;</span><br><span class="line">    <span class="attribute">background-position</span>: <span class="number">0</span> <span class="number">0</span>;</span><br><span class="line">  &#125;</span><br><span class="line">  <span class="selector-tag">to</span> &#123;</span><br><span class="line">    <span class="attribute">background-position</span>: -<span class="number">1680px</span> <span class="number">0</span>;</span><br><span class="line">  &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<h3 id="多组动画"><a href="#多组动画" class="headerlink" title="多组动画"></a>多组动画</h3><figure class="highlight css"><table><tr><td class="code"><pre><span class="line"><span class="attribute">animation</span>: </span><br><span class="line">  动画一,</span><br><span class="line">  动画二,</span><br><span class="line">  ... ...</span><br><span class="line">;</span><br></pre></td></tr></table></figure>
-
-
-
-<h2 id="03-综合案例-全名出游"><a href="#03-综合案例-全名出游" class="headerlink" title="03-综合案例-全名出游"></a>03-综合案例-全名出游</h2><p><img src="/./%E7%A7%BB%E5%8A%A8Web%E7%AC%AC%E4%BA%8C%E5%A4%A9.assets/1681724426559.png" alt="1681724426559"></p>
-<h3 id="背景"><a href="#背景" class="headerlink" title="背景"></a>背景</h3><figure class="highlight css"><table><tr><td class="code"><pre><span class="line"><span class="comment">/* 大背景 */</span></span><br><span class="line"><span class="comment">/* 默认状态HTML和body的高度是0，所以导致cover缩放背景图不成功 */</span></span><br><span class="line"><span class="selector-tag">html</span> &#123;</span><br><span class="line">  <span class="attribute">height</span>: <span class="number">100%</span>;</span><br><span class="line">&#125;</span><br><span class="line"><span class="selector-tag">body</span> &#123;</span><br><span class="line">  <span class="attribute">height</span>: <span class="number">100%</span>;</span><br><span class="line">  <span class="attribute">background</span>: <span class="built_in">url</span>(<span class="string">../images/f1_1.jpg</span>) no-repeat center <span class="number">0</span> / cover;</span><br><span class="line">  <span class="comment">/* background-size: cover; */</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<h3 id="云彩位置和动画"><a href="#云彩位置和动画" class="headerlink" title="云彩位置和动画"></a>云彩位置和动画</h3><ul>
-<li>HTML 结构</li>
-</ul>
-<figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="comment">&lt;!-- 云 --&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">div</span> <span class="attr">class</span>=<span class="string">&quot;cloud&quot;</span>&gt;</span></span><br><span class="line">  <span class="tag">&lt;<span class="name">img</span> <span class="attr">src</span>=<span class="string">&quot;./images/yun1.png&quot;</span> <span class="attr">alt</span>=<span class="string">&quot;&quot;</span>&gt;</span></span><br><span class="line">  <span class="tag">&lt;<span class="name">img</span> <span class="attr">src</span>=<span class="string">&quot;./images/yun2.png&quot;</span> <span class="attr">alt</span>=<span class="string">&quot;&quot;</span>&gt;</span></span><br><span class="line">  <span class="tag">&lt;<span class="name">img</span> <span class="attr">src</span>=<span class="string">&quot;./images/yun3.png&quot;</span> <span class="attr">alt</span>=<span class="string">&quot;&quot;</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">div</span>&gt;</span></span><br></pre></td></tr></table></figure>
-
-<ul>
-<li>CSS 样式</li>
-</ul>
-<figure class="highlight css"><table><tr><td class="code"><pre><span class="line"><span class="comment">/* 云 */</span></span><br><span class="line"><span class="selector-class">.cloud</span> <span class="selector-tag">img</span> &#123;</span><br><span class="line">  <span class="attribute">position</span>: absolute;</span><br><span class="line">  <span class="attribute">left</span>: <span class="number">50%</span>;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="selector-class">.cloud</span> <span class="selector-tag">img</span><span class="selector-pseudo">:nth-child</span>(<span class="number">1</span>) &#123;</span><br><span class="line">  <span class="attribute">margin-left</span>: -<span class="number">250px</span>;</span><br><span class="line">  <span class="attribute">top</span>: <span class="number">20px</span>;</span><br><span class="line">  <span class="attribute">animation</span>: cloud <span class="number">1s</span> infinite alternate linear;</span><br><span class="line">&#125;</span><br><span class="line"><span class="selector-class">.cloud</span> <span class="selector-tag">img</span><span class="selector-pseudo">:nth-child</span>(<span class="number">2</span>) &#123;</span><br><span class="line">  <span class="attribute">margin-left</span>: <span class="number">400px</span>;</span><br><span class="line">  <span class="attribute">top</span>: <span class="number">100px</span>;</span><br><span class="line">  <span class="attribute">animation</span>: cloud <span class="number">1s</span> infinite alternate linear <span class="number">0.4s</span>;</span><br><span class="line">&#125;</span><br><span class="line"><span class="selector-class">.cloud</span> <span class="selector-tag">img</span><span class="selector-pseudo">:nth-child</span>(<span class="number">3</span>) &#123;</span><br><span class="line">  <span class="attribute">margin-left</span>: -<span class="number">550px</span>;</span><br><span class="line">  <span class="attribute">top</span>: <span class="number">200px</span>;</span><br><span class="line">  <span class="attribute">animation</span>: cloud <span class="number">1s</span> infinite alternate linear <span class="number">0.6s</span>;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="keyword">@keyframes</span> cloud &#123;</span><br><span class="line">  <span class="number">100%</span> &#123;</span><br><span class="line">    <span class="attribute">transform</span>: <span class="built_in">translate</span>(<span class="number">20px</span>);</span><br><span class="line">  &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<h3 id="文字动画"><a href="#文字动画" class="headerlink" title="文字动画"></a>文字动画</h3><ul>
-<li>HTML 结构</li>
-</ul>
-<figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="comment">&lt;!-- 文字 --&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">div</span> <span class="attr">class</span>=<span class="string">&quot;text&quot;</span>&gt;</span></span><br><span class="line">  <span class="tag">&lt;<span class="name">img</span> <span class="attr">src</span>=<span class="string">&quot;./images/font1.png&quot;</span> <span class="attr">alt</span>=<span class="string">&quot;&quot;</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">div</span>&gt;</span></span><br></pre></td></tr></table></figure>
-
-<ul>
-<li>CSS 样式</li>
-</ul>
-<figure class="highlight css"><table><tr><td class="code"><pre><span class="line"><span class="comment">/* 文字 */</span></span><br><span class="line"><span class="selector-class">.text</span> <span class="selector-tag">img</span> &#123;</span><br><span class="line">  <span class="attribute">position</span>: absolute;</span><br><span class="line">  <span class="attribute">left</span>: <span class="number">50%</span>;</span><br><span class="line">  <span class="attribute">top</span>: <span class="number">50%</span>;</span><br><span class="line">  <span class="attribute">transform</span>: <span class="built_in">translate</span>(-<span class="number">50%</span>, -<span class="number">50%</span>);</span><br><span class="line">  <span class="attribute">animation</span>: text <span class="number">1s</span>;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="comment">/* 默认 → 小 → 大 → 小 → 默认 */</span></span><br><span class="line"><span class="keyword">@keyframes</span> text &#123;</span><br><span class="line">  <span class="number">0%</span> &#123;</span><br><span class="line">    <span class="attribute">transform</span>: <span class="built_in">translate</span>(-<span class="number">50%</span>, -<span class="number">50%</span>) <span class="built_in">scale</span>(<span class="number">1</span>);</span><br><span class="line">  &#125;</span><br><span class="line">  <span class="number">20%</span> &#123;</span><br><span class="line">    <span class="attribute">transform</span>: <span class="built_in">translate</span>(-<span class="number">50%</span>, -<span class="number">50%</span>) <span class="built_in">scale</span>(<span class="number">0.1</span>);</span><br><span class="line">  &#125;</span><br><span class="line">  <span class="number">40%</span> &#123;</span><br><span class="line">    <span class="attribute">transform</span>: <span class="built_in">translate</span>(-<span class="number">50%</span>, -<span class="number">50%</span>) <span class="built_in">scale</span>(<span class="number">1.4</span>);</span><br><span class="line">  &#125;</span><br><span class="line">  <span class="number">70%</span> &#123;</span><br><span class="line">    <span class="attribute">transform</span>: <span class="built_in">translate</span>(-<span class="number">50%</span>, -<span class="number">50%</span>) <span class="built_in">scale</span>(<span class="number">0.8</span>);</span><br><span class="line">  &#125;</span><br><span class="line">  <span class="number">100%</span> &#123;</span><br><span class="line">    <span class="attribute">transform</span>: <span class="built_in">translate</span>(-<span class="number">50%</span>, -<span class="number">50%</span>) <span class="built_in">scale</span>(<span class="number">1</span>);</span><br><span class="line">  &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
+    <title>torino</title>
+    <url>/2023/11/22/%E5%9B%BE%E7%89%87/torino_pixiv%E6%94%B6%E9%9B%86/</url>
+    <content><![CDATA[<div class="gallery-group-main">
+<figure class="gallery-group">
+  <img class="gallery-group-img no-lightbox" src='https://p.sda1.dev/14/0be8c9dcb897de5fa034f24dcb83e2be/torino_配信前のシオンちゃん_94332920_p0_32229.jpg' alt="Group Image Gallery">
+  <figcaption>
+  <div class="gallery-group-name">torino</div>
+  <p>很不错的插画</p>
+  <a href='/Gallery/torino'></a>
+  </figcaption>
+  </figure>
+  
+</div>
 ]]></content>
+      <tags>
+        <tag>图片</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>甘雨1000收藏系列</title>
+    <url>/2023/11/24/%E5%9B%BE%E7%89%87/%E7%94%98%E9%9B%A81000%E6%94%B6%E8%97%8F%E7%B3%BB%E5%88%97/</url>
+    <content><![CDATA[<div class="gallery-group-main">
+<figure class="gallery-group">
+  <img class="gallery-group-img no-lightbox" src='https://p.sda1.dev/14/478cc4239b0594e4ef2c97e7da5482f3/0002.jpg' alt="Group Image Gallery">
+  <figcaption>
+  <div class="gallery-group-name">甘雨</div>
+  <p>1000收藏系列1</p>
+  <a href='/Gallery/%E7%94%98%E9%9B%A81000%E6%94%B6%E8%97%8F%E7%B3%BB%E5%88%971'></a>
+  </figcaption>
+  </figure>
+  
+<figure class="gallery-group">
+  <img class="gallery-group-img no-lightbox" src='https://i.postimg.cc/dV2798Q4/0334.png' alt="Group Image Gallery">
+  <figcaption>
+  <div class="gallery-group-name">甘雨</div>
+  <p>1000收藏系列2</p>
+  <a href='/Gallery/%E7%94%98%E9%9B%A81000%E6%94%B6%E8%97%8F%E7%B3%BB%E5%88%972'></a>
+  </figcaption>
+  </figure>
+  
+</div>]]></content>
+      <tags>
+        <tag>甘雨</tag>
+        <tag>1000收藏</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>安柏pixiv图片收集</title>
+    <url>/2023/11/22/%E5%9B%BE%E7%89%87/%E5%AE%89%E6%9F%8Fpixiv%E5%9B%BE%E7%89%87%E6%94%B6%E9%9B%86/</url>
+    <content><![CDATA[<div class="gallery-group-main">
+<figure class="gallery-group">
+  <img class="gallery-group-img no-lightbox" src='https://p.sda1.dev/14/4b9f361d0ce7ddedfd4656cbd342aaea/photo_2023-11-20_16-50-46.jpg' alt="Group Image Gallery">
+  <figcaption>
+  <div class="gallery-group-name">安柏</div>
+  <p>兔兔伯爵 出击!</p>
+  <a href='/Gallery/%E5%AE%89%E6%9F%8F'></a>
+  </figcaption>
+  </figure>
+  
+</div>
+]]></content>
+      <tags>
+        <tag>图片</tag>
+        <tag>pixiv</tag>
+      </tags>
   </entry>
 </search>

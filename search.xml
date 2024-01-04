@@ -1978,4 +1978,110 @@ style="height: 300px;
         <tag>pixiv</tag>
       </tags>
   </entry>
+  <entry>
+    <title>01_你好Python</title>
+    <url>/2024/01/04/02python/01-%E4%BD%A0%E5%A5%BDpython/</url>
+    <content><![CDATA[<p>本ppt主要介绍了python在各个环境的安装，以及开发环境pycharm的安装，以及常用的快捷键</p>
+<p><img src="https://eathappyimg.pages.dev/file/cc8dedc48786b0247244c.png" alt="幻灯片1"></p>
+<p><img src="https://eathappyimg.pages.dev/file/316a71ad447900053fa51.png" alt="幻灯片2"></p>
+<p><img src="https://eathappyimg.pages.dev/file/8d2ec7e012047a388d923.png" alt="幻灯片3"></p>
+<p><img src="https://eathappyimg.pages.dev/file/f69a1b6140d68ecb691ba.png" alt="幻灯片4"></p>
+<p><img src="https://eathappyimg.pages.dev/file/23f48fa0e00844c719714.png" alt="幻灯片5"></p>
+<p><img src="https://eathappyimg.pages.dev/file/86ced3e47c6d9251e98a3.png" alt="幻灯片6"></p>
+<p><img src="https://eathappyimg.pages.dev/file/5238d851061c669d8f251.png" alt="幻灯片7"></p>
+<p><img src="https://eathappyimg.pages.dev/file/a8ccd1cf6896c40eb8f82.png" alt="幻灯片8"></p>
+<p><img src="https://eathappyimg.pages.dev/file/c2eef94fe390befed104f.png" alt="幻灯片9"></p>
+<p><img src="https://eathappyimg.pages.dev/file/fbdce259c78a9a080d261.png" alt="幻灯片10"></p>
+<p><img src="https://eathappyimg.pages.dev/file/aec92131c5712533f55d3.png" alt="幻灯片11"></p>
+<p><img src="https://eathappyimg.pages.dev/file/2a91072eacf63a34043e5.png" alt="幻灯片12"></p>
+<p><img src="https://eathappyimg.pages.dev/file/a112fbc2f5d131162cfa0.png" alt="幻灯片13"></p>
+<p><img src="https://eathappyimg.pages.dev/file/ca1ccf06df6a32e2a0741.png" alt="幻灯片14"></p>
+<p><img src="https://eathappyimg.pages.dev/file/edd00d498241c85c06323.png" alt="幻灯片15"></p>
+<p><img src="https://eathappyimg.pages.dev/file/e0a512d11bbc3369c8585.png" alt="幻灯片16"></p>
+<p><img src="https://eathappyimg.pages.dev/file/4fed511fbed831459328d.png" alt="幻灯片17"></p>
+<p><img src="https://eathappyimg.pages.dev/file/3c14e92b9ee8cfcb7c2f8.png" alt="幻灯片18"></p>
+<p><img src="https://eathappyimg.pages.dev/file/8bb5e7e38b342cccd08a0.png" alt="幻灯片19"></p>
+<p><img src="https://eathappyimg.pages.dev/file/f77e1eee06452b21bb80e.png" alt="幻灯片20"></p>
+<p><img src="https://eathappyimg.pages.dev/file/a0e228a2c10c6f81feec8.png" alt="幻灯片21"></p>
+<p><img src="https://eathappyimg.pages.dev/file/84344757fb7f18fb7c1e6.png" alt="幻灯片22"></p>
+<p><img src="https://eathappyimg.pages.dev/file/4a809cbb4c321da935e4f.png" alt="幻灯片23"></p>
+<p><img src="https://eathappyimg.pages.dev/file/34a7baa787554a1b8fc41.png" alt="幻灯片24"></p>
+<p><img src="https://eathappyimg.pages.dev/file/059eb708c9bfcab2882ae.png" alt="幻灯片25"></p>
+<p><img src="https://eathappyimg.pages.dev/file/553137a93bae3295e0645.png" alt="幻灯片26"></p>
+<p><img src="https://eathappyimg.pages.dev/file/7c15ab9f7cc5ea3821b44.png" alt="幻灯片27"></p>
+<p><img src="https://eathappyimg.pages.dev/file/3d17b1413e019e6694c41.png" alt="幻灯片28"></p>
+<p><img src="https://eathappyimg.pages.dev/file/acce4cffdea5d39708a13.png" alt="幻灯片29"></p>
+<p><img src="https://eathappyimg.pages.dev/file/6e5105523e5f7a1f19443.png" alt="幻灯片30"></p>
+<p><img src="https://eathappyimg.pages.dev/file/42777690cb83e2e819333.png" alt="幻灯片31"></p>
+<p><img src="https://eathappyimg.pages.dev/file/493e4de915ce8fb35bbec.png" alt="幻灯片32"></p>
+<p><img src="https://eathappyimg.pages.dev/file/d32daced7c9def51d23fc.png" alt="幻灯片33"></p>
+<p><img src="https://eathappyimg.pages.dev/file/23bed8264309517cbffcf.png" alt="幻灯片34"></p>
+<p><img src="https://eathappyimg.pages.dev/file/d0b786d7b491b4e19b6c5.png" alt="幻灯片35"></p>
+<p><img src="https://eathappyimg.pages.dev/file/c14f91f68de690701ea52.png" alt="幻灯片36"></p>
+<p><img src="https://eathappyimg.pages.dev/file/47eb251f16dc225cd82a5.png" alt="幻灯片37"></p>
+<p><img src="https://eathappyimg.pages.dev/file/97693f2fb7c7985002e26.png" alt="幻灯片38"></p>
+<p><img src="https://eathappyimg.pages.dev/file/924db4e674efac04bfb3f.png" alt="幻灯片39"></p>
+<p><img src="https://eathappyimg.pages.dev/file/4bc58146cc888dfd43293.png" alt="幻灯片40"></p>
+<p><img src="https://eathappyimg.pages.dev/file/1519e7a11f1e387fda885.png" alt="幻灯片41"></p>
+<p><img src="https://eathappyimg.pages.dev/file/d4ceafe8905cb03092dba.png" alt="幻灯片42"></p>
+<p><img src="https://eathappyimg.pages.dev/file/08e9eb328cce4f17476f0.png" alt="幻灯片43"></p>
+<p><img src="https://eathappyimg.pages.dev/file/66dcaa1947d77d9f5df7c.png" alt="幻灯片44"></p>
+<p><img src="https://eathappyimg.pages.dev/file/5f9a641cb1ee3ff7b8a35.png" alt="幻灯片45"></p>
+<p><img src="https://eathappyimg.pages.dev/file/a57b318af12168067a7cb.png" alt="幻灯片46"></p>
+<p><img src="https://eathappyimg.pages.dev/file/1b9d1415d7f6a1a0b3bc7.png" alt="幻灯片47"></p>
+<p><img src="https://eathappyimg.pages.dev/file/84d84c2a35275738cf0d2.png" alt="幻灯片48"></p>
+<p><img src="https://eathappyimg.pages.dev/file/ece20bb902aa74fcee637.png" alt="幻灯片49"></p>
+<p><img src="https://eathappyimg.pages.dev/file/151439a09be71f51478c4.png" alt="幻灯片50"></p>
+<p><img src="https://eathappyimg.pages.dev/file/735b0ae1bf4ec33ac8c26.png" alt="幻灯片51"></p>
+<p><img src="https://eathappyimg.pages.dev/file/4c83c6121aec4e748a2cc.png" alt="幻灯片52"></p>
+<p><img src="https://eathappyimg.pages.dev/file/ffacfa3a6c0c6884784d8.png" alt="幻灯片53"></p>
+<p><img src="https://eathappyimg.pages.dev/file/ec630b57b561c4453b453.png" alt="幻灯片54"></p>
+<p><img src="https://eathappyimg.pages.dev/file/6780f0aaf5e1ae6fecb42.png" alt="幻灯片55"></p>
+<p><img src="https://eathappyimg.pages.dev/file/47aaa08400d72dc089f72.png" alt="幻灯片56"></p>
+<p><img src="https://eathappyimg.pages.dev/file/f171c111b79e779cd4fab.png" alt="幻灯片57"></p>
+<p><img src="https://eathappyimg.pages.dev/file/be0ded8e64f1cd4d0e31f.png" alt="幻灯片58"></p>
+<p><img src="https://eathappyimg.pages.dev/file/827f51f1f12c41c996ef9.png" alt="幻灯片59"></p>
+<p><img src="https://eathappyimg.pages.dev/file/5e1121b1a5cda8899b9ad.png" alt="幻灯片60"></p>
+<p><img src="https://eathappyimg.pages.dev/file/94511177c609044d27552.png" alt="幻灯片61"></p>
+<p><img src="https://eathappyimg.pages.dev/file/4eb60e24bca5d41e6f94e.png" alt="幻灯片62"></p>
+<p><img src="https://eathappyimg.pages.dev/file/736e7615a79ab77962d4e.png" alt="幻灯片63"></p>
+<p><img src="https://eathappyimg.pages.dev/file/01647890f4c3568a453a0.png" alt="幻灯片64"></p>
+<p><img src="https://eathappyimg.pages.dev/file/2341754ca291585197b0a.png" alt="幻灯片65"></p>
+<p><img src="https://eathappyimg.pages.dev/file/1046d2780e4af847445f4.png" alt="幻灯片66"></p>
+<p><img src="https://eathappyimg.pages.dev/file/a2a0e42f64cdbbd2096b6.png" alt="幻灯片67"></p>
+<p><img src="https://eathappyimg.pages.dev/file/ea866478d13ba4afa3b48.png" alt="幻灯片68"></p>
+<p><img src="https://eathappyimg.pages.dev/file/8568e4cc664fb34207eda.png" alt="幻灯片69"></p>
+<p><img src="https://eathappyimg.pages.dev/file/1a25e2a8b0cf03f360808.png" alt="幻灯片70"></p>
+<p><img src="https://eathappyimg.pages.dev/file/0fd55bdbe268927a5ba33.png" alt="幻灯片71"></p>
+<p><img src="https://eathappyimg.pages.dev/file/62398d398b0cf7ed151f8.png" alt="幻灯片72"></p>
+<p><img src="https://eathappyimg.pages.dev/file/db29a624f3decb2ba9efc.png" alt="幻灯片73"></p>
+<p><img src="https://eathappyimg.pages.dev/file/1aca599b37991054bbcdf.png" alt="幻灯片74"></p>
+<p><img src="https://eathappyimg.pages.dev/file/b64c1338e493f3265d97d.png" alt="幻灯片75"></p>
+<p><img src="https://eathappyimg.pages.dev/file/33d03fc5c588dd0e9c8f4.png" alt="幻灯片76"></p>
+<p><img src="https://eathappyimg.pages.dev/file/3f15164e030477b1e81ca.png" alt="幻灯片77"></p>
+<p><img src="https://eathappyimg.pages.dev/file/0313fa3af40b20a805594.png" alt="幻灯片78"></p>
+<p><img src="https://eathappyimg.pages.dev/file/f5291297da0d7fd1ba828.png" alt="幻灯片79"></p>
+<p><img src="https://eathappyimg.pages.dev/file/b833ffa9e1dad84f5f8f4.png" alt="幻灯片80"></p>
+<p><img src="https://eathappyimg.pages.dev/file/dec6bee0e835a123f12ab.png" alt="幻灯片81"></p>
+<p><img src="https://eathappyimg.pages.dev/file/8cf9a61bf0234f046e2c6.png" alt="幻灯片82"></p>
+<p><img src="https://eathappyimg.pages.dev/file/ca52a38fb2a17ebc80ef9.png" alt="幻灯片83"></p>
+<p><img src="https://eathappyimg.pages.dev/file/4abb21cb185d9204d086a.png" alt="幻灯片84"><br><img src="https://eathappyimg.pages.dev/file/2449fc08f363b09720973.png" alt="幻灯片85"></p>
+<p><img src="https://eathappyimg.pages.dev/file/b55628d2339f2cb20119d.png" alt="幻灯片86"></p>
+<p><img src="https://eathappyimg.pages.dev/file/1d70da9b39578f2befd19.png" alt="幻灯片87"></p>
+<p><img src="https://eathappyimg.pages.dev/file/01a40c7910fb42403b1c4.png" alt="幻灯片88"></p>
+<p><img src="https://eathappyimg.pages.dev/file/aae86208cfdc2987831a7.png" alt="幻灯片89"></p>
+<p><img src="https://eathappyimg.pages.dev/file/0becbf45ba09431ebe87c.png" alt="幻灯片90"></p>
+<p><img src="https://eathappyimg.pages.dev/file/a9d02217a9505d3b0c9b7.png" alt="幻灯片91"></p>
+<p><img src="https://eathappyimg.pages.dev/file/a389b531ba54d8251ea78.png" alt="幻灯片92"></p>
+<p><img src="https://eathappyimg.pages.dev/file/a9c56df1412b48d24ed4f.png" alt="幻灯片93"></p>
+<p><img src="https://eathappyimg.pages.dev/file/f9a90e34ea071495bfec7.png" alt="幻灯片94"></p>
+<p><img src="https://eathappyimg.pages.dev/file/d74c2f261dcf5fe2b5808.png" alt="幻灯片95"></p>
+<p><img src="https://eathappyimg.pages.dev/file/cf68e5b1c86c8cd5d3236.png" alt="幻灯片96"></p>
+<p><img src="https://eathappyimg.pages.dev/file/4c221bbd6e66f9ca3ff29.png" alt="幻灯片97"></p>
+<p><img src="https://eathappyimg.pages.dev/file/457ad9c03eea9b0bb7bdd.png" alt="幻灯片98"></p>
+]]></content>
+      <tags>
+        <tag>python</tag>
+      </tags>
+  </entry>
 </search>
